@@ -1,0 +1,17 @@
+#about {
+    font-family: sans-serif;
+    padding: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#videos {
+    vertical-align: center;
+}
+
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
